@@ -1,11 +1,6 @@
 
 
-## Multiplicar Console App
+## Multiply Console App
 
-Esta es una aplicación para generar archivos de tablas de multiplicar
+This is an application to generate multiplication tables files
 
-Ejecutar este comando
-
-```
-npm install
-```
